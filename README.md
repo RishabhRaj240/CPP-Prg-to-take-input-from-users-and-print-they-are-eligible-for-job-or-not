@@ -37,9 +37,7 @@ A simple C++ program that takes a user's age as input and determines job eligibi
 
 ## 📸 Screenshot
 
-```md id="yow8cw"
 <img width="1057" height="663" alt="Screenshot 2026-06-11 075658" src="https://github.com/user-attachments/assets/367cee46-aa4b-4e68-aa2f-111541a1f14e" />
-```
 
 Example folder structure:
 
